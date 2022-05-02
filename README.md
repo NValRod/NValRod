@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nicolas Valbuena Rodriguez 
+- 👀 I’m interested in FronEnd and BackEnd
+- 🌱 I’m currently learning ruby, sinatra and rails
+- 📫 How to reach me, my email nicolasvalbuenaro@gmail.com
